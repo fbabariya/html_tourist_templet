@@ -1,0 +1,179 @@
+.logo{
+    height: 70px;
+    width: 70px;
+    
+}
+
+.page1-img{
+    background-image: url("images/Background_4_jhmxwd.png");
+    background-size: cover;
+    height: 100vh;
+}
+.head-losangeles{
+    font-size: 115px;
+    letter-spacing: 1px;
+    line-height: 124px;
+    text-transform: uppercase;
+    color: #4d4d4d;
+    font-family: "Bebas";
+    opacity: 0.290;
+  
+    
+}
+.head-mountain{
+
+    font-size: 115px;
+    letter-spacing: 1px;
+    line-height: 124px;
+    text-transform: uppercase;
+    color: #1f1919;
+    font-family: "Bebas";
+}
+.logo-losangeles{
+    margin: 2px;
+    font-size: 21px;
+letter-spacing: 0px;
+line-height: 23px;
+text-transform: uppercase;
+color: #4d4d4d;
+font-family: "Bebas";
+}
+.logo-mountain{margin: 2px;
+    font-size: 21px;
+letter-spacing: 0px;
+line-height: 23px;
+text-transform: uppercase;
+color: #4d4d4d;
+font-family: "Bebas";
+}
+.page2-img{
+    background-image: url("images/Background_2_1_kxnz6x.png");
+    background-size: cover;
+    height: 100%;
+}
+
+.page2-01{
+    opacity: 0.502;
+    font-size: 136px;
+    color: #414f6b;
+    font-weight: 700;
+    font-family: "Oswald";
+}
+.history-tag{
+    font-size: 32px;
+color: #414f6b;
+font-weight: 700;
+font-family: "Oswald";
+padding-top: 100px;
+
+}
+.history-para{
+  
+font-size: 16px;
+padding-top: 100px;
+color: #000000;
+font-weight: 300;
+font-family: "Lato";
+text-align: start;
+}
+.coro-back{
+    width: 2000px;
+height: 135px;
+background-color: #414f6b;
+background-image: url('images/Background_2_1_kxnz6x.png');
+
+}
+.carousel-wrapper{
+    background: rgb(226 225 244 / 31%); 
+    height: 40vh !important;
+    padding-top: 20px;
+}
+
+.climb-head-section-back{
+    background-color: white;
+    
+}
+.carousel-indicators > li {
+    border-radius: 50%;
+}
+.carousel-indicators li {
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 100%;
+}
+.carousel-indicators {
+    bottom: -18px !important;
+}
+.climb-head-section-back {
+    background-color: white;
+    
+}
+
+.mountain-btn {
+    width: 140px;
+    height: 62px;
+    background-color: #b0b4be;
+    color: #414f6b;
+}
+
+.last-page-back1 {
+    background-image: url("https://res.cloudinary.com/dqkt1oubr/image/upload/v1706530892/exevqpttq8hpgwtfvlhx.png");
+    background-size: cover;
+    height: 100vh;
+    
+}
+.last-page-back2 {
+    background-image: url("https://res.cloudinary.com/dqkt1oubr/image/upload/v1706531035/ukhytsayvit0vdtoq4kj.png");
+    background-size: cover;
+    height: 100vh;
+   
+}
+.tab-back {
+  background-color: #414f6b;
+   text-align: center;
+}
+.mount-name{
+    font-size: 20px;
+text-decoration: underline;
+color: #414f6b;
+font-weight: 700;
+font-family: "Oswald";
+text-align: center;
+}
+.sheduale {
+    font-size: 32px;
+    color: #414f6b;
+    font-weight: 700;
+    font-family: "Oswald";
+    
+}
+.list-back{
+    opacity: 0.55;
+width: 352px;
+height: 229px;
+background-color: #ffffff;
+}
+.sheduale-dates {
+    
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    font-weight: 300;
+    font-family: "Lato";
+}
+.footer-section-container{
+    background-color: #414f6b;
+   
+}
+.copyright{
+    font-size: 12px;
+letter-spacing: 1px;
+
+text-transform: uppercase;
+color: #63769d;
+font-weight: 900;
+font-style: italic;
+font-family: "Lato";
+margin-left: 100px;
+
+}
